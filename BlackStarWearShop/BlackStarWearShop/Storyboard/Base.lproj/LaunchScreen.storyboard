@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VOC-tF-UcD">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fotoBig" translatesAutoresizingMaskIntoConstraints="NO" id="Vge-ED-8kq">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="Vge-ED-8kq" firstAttribute="top" secondItem="VOC-tF-UcD" secondAttribute="top" id="00L-RV-Rdo"/>
+                                    <constraint firstAttribute="bottom" secondItem="Vge-ED-8kq" secondAttribute="bottom" id="55c-Uf-HLK"/>
+                                    <constraint firstItem="Vge-ED-8kq" firstAttribute="leading" secondItem="VOC-tF-UcD" secondAttribute="leading" id="boA-Fb-Gjp"/>
+                                    <constraint firstAttribute="trailing" secondItem="Vge-ED-8kq" secondAttribute="trailing" id="c6b-EL-M57"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="VOC-tF-UcD" secondAttribute="trailing" id="HaS-Te-gB8"/>
+                            <constraint firstItem="VOC-tF-UcD" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="dTz-m5-80b"/>
+                            <constraint firstAttribute="bottom" secondItem="VOC-tF-UcD" secondAttribute="bottom" id="dyG-ad-BS7"/>
+                            <constraint firstItem="VOC-tF-UcD" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="fx8-lf-a1p"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="bigView" destination="VOC-tF-UcD" id="3GF-xy-dYd"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1600.0000000000002" y="127.90178571428571"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="fotoBig" width="952" height="1211"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
