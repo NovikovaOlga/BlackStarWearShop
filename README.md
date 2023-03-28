@@ -5,9 +5,10 @@
 ## 🚀 Capabilities
 <p> The case is a clothing store with real API data. </p>
 
-<p>
+https://github.com/NovikovaOlga/BlackStarWearShop/blob/main/screens/Demo1.mov
+https://github.com/NovikovaOlga/BlackStarWearShop/blob/main/screens/Demo2.mov
 
-https://github.com/NovikovaOlga/BlackStarWearShop/blob/main/screens/Demo.mov
+<p>
 
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen1.PNG">
