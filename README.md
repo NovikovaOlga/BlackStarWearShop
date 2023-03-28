@@ -1,15 +1,14 @@
 # BlackStarWearShop
-API
 
-
-# Mask
-
-## 🎭 Augmented reality app. 
+## 👖👚 Online clothing store. 
 
 ## 🚀 Capabilities
-<p> Allows you to try on glasses, mustache and masks for yourself. </p>
+<p> The case is a clothing store with real API data. </p>
 
 <p>
+
+https://github.com/NovikovaOlga/BlackStarWearShop/blob/main/screens/Demo.mov
+
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen7.JPG">  
@@ -23,4 +22,4 @@ API
  <p>
 
 ## 🛠️ Main technologies
- - **ARKit**
+ - **API**
