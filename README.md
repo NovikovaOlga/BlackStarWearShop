@@ -37,7 +37,7 @@ The following information is available on the product page: product photos, desc
  - **JSON**
  - **Networking** 
  - **CoreData**
- - **UserDefaults
+ - **UserDefaults**
  - **Animation**
   
 
