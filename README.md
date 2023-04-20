@@ -16,25 +16,27 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/screen8.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/Demo1.gif">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/Demo2.gif">
- </p>
+</p>
 
 ## How to use
+<p>
 The application uses various animations of objects: </br>
-
- animated application launch button; </br>
+</p>
+ - ** animated application launch button;  **
  
- nimated login to the application (an assistant that demonstrates different emotions depending on the user's actions); </br>
+- ** animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);**
  
- animation of choosing the size of things; </br>
- animation of adding and removing products to the cart; </br>
- animation of adding and removing things to the wish list; </br>
- animation of account replenishment (demo mode). </br>
+- ** animation of choosing the size of things; **
+ - ** animation of adding and removing products to the cart;  **
+ - ** animation of adding and removing things to the wish list;  **
+ - ** animation of account replenishment (demo mode).  **
+<p>
 The application loads the data of the online store sorted by categories, then by subcategories and by product groups. </br>
 You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
 You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
 When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account). </br>
 The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list. </br>
- 
+</p> 
 ## Technologies
  - **REST API**
  - **JSON**
