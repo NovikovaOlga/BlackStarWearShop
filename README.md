@@ -31,6 +31,7 @@ You can add your favorite products to your shopping cart or wish list. You can m
 When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account).
 The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list.
   
+  
 ## Technologies
  - **REST API**
  - **JSON**
