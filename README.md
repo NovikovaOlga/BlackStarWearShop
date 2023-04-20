@@ -20,8 +20,8 @@
 
 ## How to use
   
- The application uses various animations of objects: \<br>
-    - animated application launch button; \<br>
+ The application uses various animations of objects: \ <br>
+    - animated application launch button; \ <br>
     - animated login to the application (an assistant that demonstrates different emotions depending on the user's actions); \<br>
  animation of choosing the size of things;  <br>
  animation of adding and removing products to the cart; <br>
