@@ -21,8 +21,8 @@
 ## How to use
   
  The application uses various animations of objects: \
- animated application launch button; \
- animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);\
+    - **animated application launch button;**
+    - **animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);**
  animation of choosing the size of things;\
  animation of adding and removing products to the cart;\
  animation of adding and removing things to the wish list;\
