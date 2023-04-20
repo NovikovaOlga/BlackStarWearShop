@@ -20,7 +20,7 @@
 
 ## How to use
 
-The application uses various animations of objects: </br>
+The application uses various animations of objects:
 <li>  animated application launch button </li>
 <li>  animated login to the application (an assistant that demonstrates different emotions depending on the user's actions) </li>
 <li>  animation of choosing the size of things </li>
