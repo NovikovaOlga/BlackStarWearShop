@@ -19,8 +19,8 @@
  </p>
 
 ## How to use
- <p>   
-<p>  The application uses various animations of objects: </p> 
+  
+The application uses various animations of objects:
  - **animated application launch button;**
  - **animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);**
  - **animation of choosing the size of things;**
@@ -31,7 +31,6 @@ The application loads the data of the online store sorted by categories, then by
 You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list.
 When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account).
 The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list.
- </p> 
   
 ## Technologies
  - **REST API**
