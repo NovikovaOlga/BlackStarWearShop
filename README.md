@@ -20,12 +20,12 @@
 
 ## How to use
 The application uses various animations of objects: </br>
- - animated application launch button; </br>
- - animated login to the application (an assistant that demonstrates different emotions depending on the user's actions); </br>
- - animation of choosing the size of things; </br>
- - animation of adding and removing products to the cart; </br>
- - animation of adding and removing things to the wish list; </br>
- - animation of account replenishment (demo mode). </br>
+ animated application launch button; </br>
+ nimated login to the application (an assistant that demonstrates different emotions depending on the user's actions); </br>
+ animation of choosing the size of things; </br>
+ animation of adding and removing products to the cart; </br>
+ animation of adding and removing things to the wish list; </br>
+ animation of account replenishment (demo mode). </br>
 The application loads the data of the online store sorted by categories, then by subcategories and by product groups. </br>
 You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
 You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
