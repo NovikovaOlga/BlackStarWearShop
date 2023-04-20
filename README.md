@@ -2,8 +2,8 @@
 
 ## 👖👚 Online clothing store. 
 
-## Capabilities
-<p> The case is a clothing store with real API data. </p>
+## Description
+<p> A clothing store with real API data. </p>
 
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/screen1.png">
@@ -18,7 +18,7 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/Demo2.gif">
 </p>
 
-## How to use
+## Capabilities
 - The application uses various animations of objects:    
     - animated application launch button
     - animated login to the application (an assistant that demonstrates different emotions depending on the user's actions)
