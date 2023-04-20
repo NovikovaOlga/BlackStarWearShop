@@ -19,18 +19,18 @@
  </p>
 
 ## How to use
-<p>The application uses various animations of objects: </p>
-    - **animated application launch button;**
-   - **animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);**
+The application uses various animations of objects: </br>
+  animated application launch button;
+  animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);
   animation of choosing the size of things; <br />
   animation of adding and removing products to the cart; <br />
   animation of adding and removing things to the wish list;<br />
   animation of account replenishment (demo mode). <br />
-<p>The application loads the data of the online store sorted by categories, then by subcategories and by product groups.</p>
-<p>You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </p>
-<p>You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </p>
-<p>When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account).</p>
-<p>The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list.</p>
+The application loads the data of the online store sorted by categories, then by subcategories and by product groups. </br>
+You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
+You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
+When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account). </br>
+The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list. </br>
  
 ## Technologies
  - **REST API**
