@@ -26,7 +26,7 @@
  - animation of choosing the size of things;
  - animation of adding and removing products to the cart;
  - animation of adding and removing things to the wish list;
- - animation of account replenishment (demo mode).
+ - animation of account replenishment (demo mode).  
  The application loads the data of the online store sorted by categories, then by subcategories and by product groups.  
  You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list.
  When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account).  
