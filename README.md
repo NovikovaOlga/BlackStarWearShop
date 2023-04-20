@@ -20,7 +20,7 @@
 
 ## How to use
  <p>   
-The application uses various animations of objects:
+<The application uses various animations of objects:>
  - **animated application launch button;**
  - **animated login to the application (an assistant that demonstrates different emotions depending on the user's actions);**
  - **animation of choosing the size of things;**
