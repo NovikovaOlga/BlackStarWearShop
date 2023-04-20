@@ -40,6 +40,6 @@
  - **Animation**
   
 
-## Installing and launching the application
+## Installing and launching
  - **Download the project archive.** 
  - **Project startup file: BlackStarWearShop.xcodeproj** 
