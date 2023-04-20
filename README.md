@@ -19,20 +19,20 @@
 </p>
 
 ## How to use
-
-The application uses various animations of objects: </br>
- * animated application launch button </br>
- * animated login to the application (an assistant that demonstrates different emotions depending on the user's actions) </br>
-  animation of choosing the size of things </br>
-  animation of adding and removing products to the cart </br>
-  animation of adding and removing things to the wish list </br>
-  animation of account replenishment (demo mode) </br>
-The application loads the data of the online store sorted by categories, then by subcategories and by product groups. </br>
-You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
-You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </br>
-When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account). </br>
-The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list. 
-
+<ul>
+<li>The application uses various animations of objects: </li>
+<li>  animated application launch button </li>
+<li>  animated login to the application (an assistant that demonstrates different emotions depending on the user's actions) </li>
+<li>  animation of choosing the size of things </li>
+<li>  animation of adding and removing products to the cart </li>
+<li>  animation of adding and removing things to the wish list </li>
+<li>  animation of account replenishment (demo mode) </li>
+<li>The application loads the data of the online store sorted by categories, then by subcategories and by product groups. </li>
+<li>You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </li>
+<li>You can add your favorite products to your shopping cart or wish list. You can move items between the shopping cart and the wish list. </li>
+<li>When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account). </li>
+<li>The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list. </li>
+</ul>
 ## Technologies
  - **REST API**
  - **JSON**
