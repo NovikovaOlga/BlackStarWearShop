@@ -32,18 +32,6 @@
 - When placing an order, you can apply a promo code, and the amount will change (available promo codes are displayed in the user's personal account).    
 - The following information is available on the product page: product photos, description and cost, the ability to choose a size and add it to the cart or wish list.
 
-- Уровень списка 1. Пункт 1.
-    - Уровень списка 2. Пункт 1.
-- Уровень списка 1. Пункт 2.
-    - Уровень списка 2. Пункт 1.
-    - Уровень списка 2. Пункт 2.
-- Уровень списка 1. Пункт 3.
-    - Уровень списка 2. Пункт 1.
-        - Уровень списка 3. Пункт 1.
-        - Уровень списка 3. Пункт 2.
-           - Уровень списка 4. Пункт 1.
-
-
 ## Technologies
  - **REST API**
  - **JSON**
