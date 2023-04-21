@@ -42,4 +42,4 @@
 
 ## Installing and launching
  - **Download the project archive.** 
- - **Project startup file: BlackStarWearShop.xcodeproj** 
+ - **Project startup file: .xcodeproj** 
