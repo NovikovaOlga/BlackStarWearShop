@@ -1,6 +1,6 @@
 # BlackStarWearShop
 
-## 👖👚 Online clothing store. 
+## 👖👚 Online clothing store (real API). 
 
 ## Description
 <p> A clothing store with real API data. </p>
